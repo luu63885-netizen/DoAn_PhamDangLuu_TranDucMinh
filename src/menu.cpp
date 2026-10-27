@@ -28,8 +28,8 @@ void menuQuanLySach() {
     cout << "5. In danh sach sach theo ISBN\n";
     cout << "6. In danh sach sach theo ten\n";
     cout << "7. Tim sach theo tien to ten\n";
-    cout << "8. Import danh sach sach\n";
-    cout << "9. Export danh sach sach\n";
+    cout << "8. Nhap danh sach sach\n";
+    cout << "9. Xuat danh sach sach\n";
     cout << "0. Quay lai\n";
     cout << "==================================\n";
     cout << "Nhap lua chon: ";
