@@ -49,15 +49,52 @@ LibraryManagement/
 ```
 ## 📅 Checklist Tiến Độ
 
-| Tuần | Checklist |
-| :---: | :--- |
-| **1** | <input type="checkbox"> Repo Git &nbsp;&nbsp; <input type="checkbox"> SRS.pdf &nbsp;&nbsp; <input type="checkbox"> Cấu trúc thư mục |
-| **2** | <input type="checkbox"> Design.pdf &nbsp;&nbsp; <input type="checkbox"> Sơ đồ lớp &nbsp;&nbsp; <input type="checkbox"> Định nghĩa struct |
-| **3** | <input type="checkbox"> AVL &nbsp;&nbsp; <input type="checkbox"> BST &nbsp;&nbsp; <input type="checkbox"> Test quản lý sách |
-| **4** | <input type="checkbox"> Hash Table &nbsp;&nbsp; <input type="checkbox"> Test quản lý độc giả |
-| **5** | <input type="checkbox"> LinkedList &nbsp;&nbsp; <input type="checkbox"> Dynamic Array &nbsp;&nbsp; <input type="checkbox"> File I/O |
-| **6** | <input type="checkbox"> Mượn sách &nbsp;&nbsp; <input type="checkbox"> Trả sách &nbsp;&nbsp; <input type="checkbox"> Tính phạt |
-| **7** | <input type="checkbox"> Graph &nbsp;&nbsp; <input type="checkbox"> BFS/DFS &nbsp;&nbsp; <input type="checkbox"> Thống kê top 10 |
-| **8** | <input type="checkbox"> CTDL mới &nbsp;&nbsp; <input type="checkbox"> Tích hợp &nbsp;&nbsp; <input type="checkbox"> Demo |
-| **9** | <input type="checkbox"> Unit test &nbsp;&nbsp; <input type="checkbox"> Bảng so sánh &nbsp;&nbsp; <input type="checkbox"> User manual |
-| **10** | <input type="checkbox"> Báo cáo &nbsp;&nbsp; <input type="checkbox"> Video &nbsp;&nbsp; <input type="checkbox"> Slide &nbsp;&nbsp; <input type="checkbox"> Nộp + ký |
+### Tuần 1
+- [ ] Repo Git
+- [ ] SRS.pdf
+- [ ] Cấu trúc thư mục
+
+### Tuần 2
+- [ ] Design.pdf
+- [ ] Sơ đồ lớp
+- [ ] Định nghĩa struct
+
+### Tuần 3
+- [ ] AVL
+- [ ] BST
+- [ ] Test quản lý sách
+
+### Tuần 4
+- [ ] Hash Table
+- [ ] Test quản lý độc giả
+
+### Tuần 5
+- [ ] LinkedList
+- [ ] Dynamic Array
+- [ ] File I/O
+
+### Tuần 6
+- [ ] Mượn sách
+- [ ] Trả sách
+- [ ] Tính phạt
+
+### Tuần 7
+- [ ] Graph
+- [ ] BFS/DFS
+- [ ] Thống kê top 10
+
+### Tuần 8
+- [ ] CTDL mới
+- [ ] Tích hợp
+- [ ] Demo
+
+### Tuần 9
+- [ ] Unit test
+- [ ] Bảng so sánh
+- [ ] User manual
+
+### Tuần 10
+- [ ] Báo cáo
+- [ ] Video
+- [ ] Slide
+- [ ] Nộp + ký
