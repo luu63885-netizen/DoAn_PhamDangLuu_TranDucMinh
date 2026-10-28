@@ -45,3 +45,18 @@ LibraryManagement/
 ├── tests/         # Chứa các file test case
 ├── Makefile       # Hoặc file .sln (nếu dùng Visual Studio)
 └── README.md      # File mô tả dự án (file này)
+
+## 📅 Checklist Tiến Độ
+
+| Tuần | Checklist |
+| :---: | :--- |
+| **1** | <input type="checkbox"> Repo Git &nbsp;&nbsp; <input type="checkbox"> SRS.pdf &nbsp;&nbsp; <input type="checkbox"> Cấu trúc thư mục |
+| **2** | <input type="checkbox"> Design.pdf &nbsp;&nbsp; <input type="checkbox"> Sơ đồ lớp &nbsp;&nbsp; <input type="checkbox"> Định nghĩa struct |
+| **3** | <input type="checkbox"> AVL &nbsp;&nbsp; <input type="checkbox"> BST &nbsp;&nbsp; <input type="checkbox"> Test quản lý sách |
+| **4** | <input type="checkbox"> Hash Table &nbsp;&nbsp; <input type="checkbox"> Test quản lý độc giả |
+| **5** | <input type="checkbox"> LinkedList &nbsp;&nbsp; <input type="checkbox"> Dynamic Array &nbsp;&nbsp; <input type="checkbox"> File I/O |
+| **6** | <input type="checkbox"> Mượn sách &nbsp;&nbsp; <input type="checkbox"> Trả sách &nbsp;&nbsp; <input type="checkbox"> Tính phạt |
+| **7** | <input type="checkbox"> Graph &nbsp;&nbsp; <input type="checkbox"> BFS/DFS &nbsp;&nbsp; <input type="checkbox"> Thống kê top 10 |
+| **8** | <input type="checkbox"> CTDL mới &nbsp;&nbsp; <input type="checkbox"> Tích hợp &nbsp;&nbsp; <input type="checkbox"> Demo |
+| **9** | <input type="checkbox"> Unit test &nbsp;&nbsp; <input type="checkbox"> Bảng so sánh &nbsp;&nbsp; <input type="checkbox"> User manual |
+| **10** | <input type="checkbox"> Báo cáo &nbsp;&nbsp; <input type="checkbox"> Video &nbsp;&nbsp; <input type="checkbox"> Slide &nbsp;&nbsp; <input type="checkbox"> Nộp + ký |
