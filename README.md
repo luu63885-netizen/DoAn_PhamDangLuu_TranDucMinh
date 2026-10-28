@@ -1,9 +1,9 @@
 # Chương Trình Quản Lý Thư Viện
 - Môn học: Đồ án Tin học (Cấu trúc Dữ liệu & Giải thuật)
 - Giảng viên hướng dẫn: Lương An Vinh
-- Sinh viên thực hiện:
-# Phạm Đăng Lưu - MSSV: DH52400635
-# Trần Đức Minh - MSSV: DH52400646
+- Sinh viên thực hiện: 
+" Trần Đức Minh - MSSV: DH52400646 "
+" Phạm Đăng Lưu - MSSV: DH52400635 "
 
 # Giới thiệu chung
 - Đồ án xây dựng phần mềm quản lý thư viện bằng ngôn ngữ "C++". 
