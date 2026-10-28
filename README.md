@@ -1,5 +1,5 @@
 # Chương Trình Quản Lý Thư Viện
-- **Môn học**: Đồ án Tin học (Cấu trúc Dữ liệu & Giải thuật)
+- **Môn học**: Đồ án Tin học 
 - **Giảng viên hướng dẫn**: Lương An Vinh
 - **Sinh viên thực hiện:** 
   - Trần Đức Minh - MSSV: DH52400646
@@ -18,15 +18,15 @@
 - Lưu trữ: Tự động đọc/ghi file nhị phân (.dat), xuất báo cáo (.txt), backup dữ liệu.
 
 # Cấu trúc dữ liệu áp dụng
-|STT| Cấu trúc dữ liệu / Giải thuật | Áp dụng cho chức năng |
-| 1 | Cây AVL | Quản lý sách theo Mã ISBN |
-| 2 | Cây BST | In danh mục sách theo tên (in-order) |
-| 3 | Hash Table (Separate Chaining) | Quản lý độc giả theo CMND |
-| 4 | Danh sách liên kết đơn | Danh sách phiếu mượn |
-| 5 | Danh sách đặc (Mảng động) | Lịch sử giao dịch |
-| 6 | Đồ thị (Danh sách kề) | Gợi ý sách cùng thể loại (BFS/DFS) |
-| 7 | CTDL tự tìm hiểu: Cây Trie | Tìm sách theo tiền tố tên (Autocomplete) |
-| 8 | Đọc/Ghi file nhị phân | Lưu trữ toàn bộ dữ liệu |
+|STT| **Cấu trúc dữ liệu / Giải thuật | Áp dụng cho chức năng |
+| 1 | **Cây AVL | Quản lý sách theo Mã ISBN |
+| 2 | **Cây BST | In danh mục sách theo tên (in-order) |
+| 3 | **Hash Table (Separate Chaining) | Quản lý độc giả theo CMND |
+| 4 | **Danh sách liên kết đơn | Danh sách phiếu mượn |
+| 5 | **Danh sách đặc (Mảng động) | Lịch sử giao dịch |
+| 6 | **Đồ thị (Danh sách kề) | Gợi ý sách cùng thể loại (BFS/DFS) |
+| 7 | **CTDL tự tìm hiểu: Cây Trie | Tìm sách theo tiền tố tên (Autocomplete) |
+| 8 | **Đọc/Ghi file nhị phân | Lưu trữ toàn bộ dữ liệu |
 
 # Cấu trúc thư mục dự án
 LibraryManagement/
