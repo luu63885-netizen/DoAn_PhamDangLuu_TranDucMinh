@@ -9,7 +9,7 @@
 - Đồ án xây dựng phần mềm quản lý thư viện bằng ngôn ngữ "C++". 
 - Chương trình ứng dụng các Cấu trúc Dữ liệu & Giải thuật đã học, kết hợp với một CTDL tự tìm hiểu, lưu trữ dữ liệu trực tiếp trên file (nhị phân & văn bản) mà "không sử dụng hệ quản trị CSDL".
 
-## ✨ Các chức năng chính
+# Các chức năng chính
 - **Quản lý Sách:** Thêm/Xóa/Sửa, tìm kiếm theo ISBN, tìm kiếm theo tiền tố tên, Import/Export file.
 - **Quản lý Độc giả:** Thêm/Xóa/Sửa thông tin, quản lý theo CMND.
 - **Mượn/Trả sách:** Lập phiếu mượn, xử lý trả sách, tính tiền phạt quá hạn, kiểm tra ràng buộc.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠 Cấu trúc dữ liệu áp dụng
+# Cấu trúc dữ liệu áp dụng
 | STT | Cấu trúc dữ liệu / Giải thuật | Áp dụng cho chức năng |
 |:---:|:---|:---|
 | 1 | **Cây AVL** | Quản lý sách theo Mã ISBN |
@@ -33,7 +33,7 @@
 
 ---
 
-## 📂 Cấu trúc thư mục dự án
+# Cấu trúc thư mục dự án
 
 ```text
 LibraryManagement/
