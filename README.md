@@ -54,14 +54,14 @@ LibraryManagement/
 ## 📅 Checklist Tiến Độ
 
 ### Tuần 1
-- [ ] Repo Git
-- [ ] SRS.pdf
-- [ ] Cấu trúc thư mục
+- [x] Repo Git
+- [x] SRS.pdf
+- [x] Cấu trúc thư mục
 
 ### Tuần 2
-- [ ] Design.pdf
-- [ ] Sơ đồ lớp
-- [ ] Định nghĩa struct
+- [x] Design.pdf
+- [x] Sơ đồ lớp
+- [x] Định nghĩa struct
 
 ### Tuần 3
 - [ ] AVL
