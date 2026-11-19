@@ -64,18 +64,18 @@ LibraryManagement/
 - [x] Định nghĩa struct
 
 ### Tuần 3
-- [ ] AVL
-- [ ] BST
-- [ ] Test quản lý sách
+- [x] AVL
+- [x] BST
+- [x] Test quản lý sách
 
 ### Tuần 4
-- [ ] Hash Table
-- [ ] Test quản lý độc giả
+- [x] Hash Table
+- [x] Test quản lý độc giả
 
 ### Tuần 5
-- [ ] LinkedList
-- [ ] Dynamic Array
-- [ ] File I/O
+- [x] LinkedList
+- [x] Dynamic Array
+- [x] File I/O
 
 ### Tuần 6
 - [ ] Mượn sách
